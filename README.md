@@ -6,6 +6,7 @@ merge between Razor-qt and LXDE-Qt.
 
 ### Note from ViktorNova to myself:
 1. build and install libfm
+1. build and install libqtxdg
 1. build and install pcmanfm-qt
 1. ..
 (This fork is for my own purposes!)
