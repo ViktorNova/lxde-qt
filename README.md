@@ -4,13 +4,11 @@ LXQt
 LXQt is the next generation of LXDE, the Lightweight Desktop Environment. It is the product of the
 merge between Razor-qt and LXDE-Qt.
 
-##### Note from ViktorNova to myself:
+### Note from ViktorNova to myself:
+1. build and install libfm
+1. build and install pcmanfm-qt
+1. ..
 (This fork is for my own purposes!)
-
-  1 build and install libfm
-  2 build and install pcmanfm-qt
-  3 ..
-
 
 ## About this repository
 This is a superproject which contains all lxde-qt components.
